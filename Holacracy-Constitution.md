@@ -116,7 +116,7 @@ Lorsqu'un Rôle n'est attribué qu'à des personnes qui ne sont pas des Associé
 
 #### 1.4.3 Définir les Priorités et les Stratégies
 
-Un Leader de Cercle peut juger de la valeur relative des efforts à produire par le Cercle afin de résoudre les conflits de priorité entre les Rôles. Il peut également définir une ou plusieurs ***« Stratégie(s) »*** pour le Cercle, heuristique(s) pour aider à établir les priorités dans le Cercle.
+Un Leader de Cercle peut juger de la valeur relative des efforts à produire par le Cercle afin de résoudre les conflits de priorité entre les Rôles. Il peut également définir une ou plusieurs ***« Stratégies »*** pour le Cercle, heuristiques pour aider à établir les priorités dans le Cercle.
 
 #### 1.4.4 Router les références externes
 
@@ -218,7 +218,7 @@ Vous pouvez également agir sur tout Domaine détenu par un Cercle contenant vot
 
 Vous ne pouvez pas exercer de contrôle ou un impact matériel sur un Domaine délégué à un Rôle ou à un Cercle qui ne contient pas votre Rôle, à moins d'en obtenir l’autorisation. Vous ne pouvez pas non plus le faire sur un Domaine appartenant à une autre entité souveraine sans autorisation.
 
-Lorsque vous avez besoin d'une autorisation pour agir sur un Domaine, vous pouvez l'obtenir de quelqu’un qui contrôle ce Domaine. Vous pouvez aussi obtenir l’autorisation en annonçant votre intention d'entreprendre une action spécifique et en invitant toute personne possédant un Domaine concerné à s'y opposer. Vous devez alors attendre un délai raisonnable permettant d’avoir des réponses. Si personne ne s'y oppose dans ce délai, vous avez alors l’autorisation d’agir sur tout Domaine appartenant à tout Rôle de l’Organisation que votre annonce a atteint. Vous pouvez supposer qu'une annonce écrite sur le canal utilisé a atteint toute personne qui y lit habituellement les messages. L’autorisation ainsi accordée ne s'applique qu'à l'action spécifique que vous avez annoncée. Une Politique peut modifier ou limiter ce processus.
+Lorsque vous avez besoin d'une autorisation pour agir sur un Domaine, vous pouvez l'obtenir de quelqu’un qui contrôle ce Domaine. Vous pouvez aussi obtenir l’autorisation en annonçant votre intention d'entreprendre une action spécifique et en invitant toute personne possédant un Domaine concerné à s'y objecter. Vous devez alors attendre un délai raisonnable permettant d’avoir des réponses. Si personne ne formule d'objection dans ce délai, vous avez alors l’autorisation d’agir sur tout Domaine appartenant à tout Rôle de l’Organisation que votre annonce a atteint. Vous pouvez supposer qu'une annonce écrite sur le canal utilisé a atteint toute personne qui y lit habituellement les messages. L’autorisation ainsi accordée ne s'applique qu'à l'action spécifique que vous avez annoncée. Une Politique peut modifier ou limiter ce processus.
 
 #### 4.1.3 Obtenir l'autorisation avant de dépenser de l’argent
 
@@ -272,7 +272,7 @@ Pour faire évoluer la Gouvernance d'un Cercle, il faut appliquer le ***« Proce
 
 Chaque Cercle dispose d'un groupe de ***« Membres de Cercle »*** qui peuvent représenter les Rôles du Cercle dans son Processus de Gouvernance.
 
-Les Membres de Cercle d’un Cercle sont constitués du/des Associé(s) qui tienne(nt) le Rôle de Leader de Cercle, ainsi que chaque Associé(e) qui tient le rôle de Leader de Rôle pour un Rôle du Cercle. Si un Rôle a plusieurs Leaders de Rôle, le Cercle peut adopter une Politique visant à limiter le nombre d'entre eux qui représentent ce Rôle - en qualité de Membres de Cercle - dans son processus de Gouvernance.
+Les Membres de Cercle d’un Cercle sont constitués des Associés qui tiennent le Rôle de Leader de Cercle, ainsi que chaque Associé(e) qui tient le rôle de Leader de Rôle pour un Rôle du Cercle. Si un Rôle a plusieurs Leaders de Rôle, le Cercle peut adopter une Politique visant à limiter le nombre d'entre eux qui représentent ce Rôle - en qualité de Membres de Cercle - dans son processus de Gouvernance.
 
 #### 5.1.1 Représentant de Cercle
 
@@ -401,7 +401,7 @@ Le Secrétaire du Cercle est chargé d’organiser les Réunions de Gouvernance 
 
 Tous les Membres de Cercle d’un Cercle peuvent participer à ses Réunions de Gouvernance. Les Facilitateur et Secrétaire en exercice peuvent également participer, même s'ils ne sont pas Membres de Cercle du Cercle. Dans ce cas, ils deviennent des Membres de Cercle temporaires pour la durée de la réunion.
 
-En tant que Représentant de Cercle pour un Cercle, vous pouvez inviter n'importe quel(le) Associé(e) à se joindre à la Réunion de Gouvernance de n'importe quel Cercle contenant directement votre Cercle. Vous ne pouvez inviter qu'un(e) Associé(e) à la fois et uniquement pour aider au traitement d'une Tension spécifique qui affecte le Cercle que vous représentez. Vous devez également ressentir cette Tension vous-même et aussi estimer qu'il est logique de la traiter dans le Cercle. Votre invité devient un Membre de Cercle temporaire pour la durée de la réunion ou jusqu'à ce que vous retiriez l'invitation. Votre invité peut représenter votre Cercle avec vous lors de la réunion, mais uniquement pendant le traitement de cette Tension spécifique.
+En tant que Représentant de Cercle pour un Cercle, vous pouvez inviter n'importe quel(le) Associé(e) à se joindre à la Réunion de Gouvernance de n'importe quel Cercle contenant directement votre Cercle. Vous ne pouvez inviter qu'un(e) Associé(e) à la fois et uniquement pour aider au traitement d'une Tension spécifique qui affecte le Cercle que vous représentez. Vous devez également ressentir cette Tension vous-même et aussi estimer qu'il est logique de la traiter dans le Cercle. Votre invité(e) devient un Membre de Cercle temporaire pour la durée de la réunion ou jusqu'à ce que vous retiriez l'invitation. Votre invité(e) peut représenter votre Cercle avec vous lors de la réunion, mais uniquement pendant le traitement de cette Tension spécifique.
 
 En dehors de ce qui précède, personne d'autre ne peut participer aux Réunions de Gouvernance d'un Cercle.
 
